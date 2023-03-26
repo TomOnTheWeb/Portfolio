@@ -1,0 +1,11 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(29, 29, 30);
+}
+html {
+  scroll-behavior: smooth;
+}
+
+html:target {
+  scroll-behavior: smooth;
+}
